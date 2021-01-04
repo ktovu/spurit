@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineRegular.woff2") format("woff2"),
+    url("TiemposFineRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineBold.woff2") format("woff2"),
+    url("TiemposFineBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineMedium.woff2") format("woff2"),
+    url("TiemposFineMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineMedium.woff2") format("woff2"),
+    url("TiemposFineMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineRegular.woff2") format("woff2"),
+    url("TiemposFineRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineBold.woff2") format("woff2"),
+    url("TiemposFineBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tiempos Fine";
+  src: url("TiemposFineLight.woff2") format("woff2"),
+    url("TiemposFineLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
